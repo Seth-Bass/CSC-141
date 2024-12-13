@@ -1,0 +1,5 @@
+In Python you can define classes and create objects.
+In Python you can work with different data types like lists, dictionaries, and strings.
+In Python you can write functions to organize your code.
+In Python you can handle errors using try-except blocks.
+In Python you can work with files for reading and writing data.
